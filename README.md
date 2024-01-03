@@ -2,6 +2,9 @@
 
 This project focuses on sentiment analysis of tweets, employing various data processing and machine learning techniques. The core idea is to predict the sentiment of tweets as positive, negative, or neutral.
 
+![Untitled](https://github.com/SimoneParvizi/Sentiment-Analysis/assets/75120707/b10f285c-b5a6-47e4-a55f-5f5c8d2b00bf)
+
+
 # Getting Started
  
 ## Dataset
